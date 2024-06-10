@@ -44,7 +44,7 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="mailto:dilansakila99@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"width="100px"/></a>
-	<a href="https://https://github.com/dilansakila"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"width="100px"/></a>
+	<a href="https://[https://github.com/dilansakila](https://github.com/dilansakila)"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"width="100px"/></a>
 	<a href="https://www.linkedin.com/in/dilan-sakila-gunasingha-6006752b1/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"width="100px"/></a>
 	<a href="https://www.facebook.com/Dilan sakila gunasingha"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"width="100px"/></a>
 	
